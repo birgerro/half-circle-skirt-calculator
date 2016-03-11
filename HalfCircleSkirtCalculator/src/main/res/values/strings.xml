@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Half Circle Skirt Calculator</string>
+
+    <string name="fabric_str">"Fabric requirement: "</string>
+
+    <string name="radius_str">Radius of half circles:</string>
+
+    <string name="num_half_str">Number of half circles:</string>
+
+    <string name="width_str">Width of fabric:</string>
+
+</resources>
